@@ -43,9 +43,6 @@ qdrant_storage/
 faiss_index/
 *.index
 
-# Downloaded embedding models
-02-vector-search/models/
-
 # OS files
 .DS_Store
 Thumbs.db
@@ -55,8 +52,6 @@ Thumbs.db
 .idea/
 
 # Personal notes
-notes/*
-!notes/
-!notes/TEORIA-02-vector-search.md
+notes/
 # Local experiments / course code
 llm-zoomcamp-2026-code/
